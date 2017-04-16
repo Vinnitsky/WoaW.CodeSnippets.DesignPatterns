@@ -1,0 +1,7 @@
+C:\Temp\WoaW.CodeSnippets.DesignPatterns\WoaW.Patterns.Specification\bin\Debug\netstandard1.4\WoaW.Patterns.Specification.deps.json
+C:\Temp\WoaW.CodeSnippets.DesignPatterns\WoaW.Patterns.Specification\bin\Debug\netstandard1.4\WoaW.Patterns.Specification.dll
+C:\Temp\WoaW.CodeSnippets.DesignPatterns\WoaW.Patterns.Specification\bin\Debug\netstandard1.4\WoaW.Patterns.Specification.pdb
+C:\Temp\WoaW.CodeSnippets.DesignPatterns\WoaW.Patterns.Specification\obj\Debug\netstandard1.4\WoaW.Patterns.Specification.csprojResolveAssemblyReference.cache
+C:\Temp\WoaW.CodeSnippets.DesignPatterns\WoaW.Patterns.Specification\obj\Debug\netstandard1.4\WoaW.Patterns.Specification.AssemblyInfo.cs
+C:\Temp\WoaW.CodeSnippets.DesignPatterns\WoaW.Patterns.Specification\obj\Debug\netstandard1.4\WoaW.Patterns.Specification.dll
+C:\Temp\WoaW.CodeSnippets.DesignPatterns\WoaW.Patterns.Specification\obj\Debug\netstandard1.4\WoaW.Patterns.Specification.pdb
