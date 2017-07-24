@@ -1,10 +1,11 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WoaW.Patterns.Specification;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
+using WoaW.Patterns.Specification;
 using System.Linq;
 
-namespace WoaW.CodeSnippets.DesignPatterns.UnitTests
+namespace WoaW.DesignPatterns.UnitTests
 {
+
     [TestClass]
     public class Specification_UnitTests
     {
@@ -31,16 +32,16 @@ namespace WoaW.CodeSnippets.DesignPatterns.UnitTests
 
         public Specification_UnitTests()
         {
-            _list.Add( new Resource() { Property = 0 });
-            _list.Add( new Resource() { Property = 1 });
-            _list.Add( new Resource() { Property = 2 });
-            _list.Add( new Resource() { Property = 3 });
-            _list.Add( new Resource() { Property = 4 });
+            _list.Add(new Resource() { Property = 0 });
+            _list.Add(new Resource() { Property = 1 });
+            _list.Add(new Resource() { Property = 2 });
+            _list.Add(new Resource() { Property = 3 });
+            _list.Add(new Resource() { Property = 4 });
         }
 
         private IEnumerable<Resource> Find(ISpecification<Resource> spec)
         {
-            return _list.Where(s=>spec.IsSatisfiedBy(s));
+            return _list.Where(s => spec.IsSatisfiedBy(s));
         }
 
         [TestMethod]
@@ -71,4 +72,5 @@ namespace WoaW.CodeSnippets.DesignPatterns.UnitTests
             Assert.AreEqual(2, item2.Property);
         }
     }
+
 }

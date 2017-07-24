@@ -8,3 +8,6 @@
 /WoaW.Patterns.Specification/bin/Debug/netstandard1.4
 /WoaW.CodeSnippets.DesignPatterns.UnitTests/obj/Release
 /WoaW.Patterns.Notifications/obj
+/WoaW.DesignPatterns.UnitTests/bin/Debug/netcoreapp1.1
+/WoaW.DesignPatterns.UnitTests/obj
+/WoaW.Patterns.Notifications/bin/Debug
