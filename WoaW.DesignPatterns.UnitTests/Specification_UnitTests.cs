@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
-using WoaW.Patterns.Specification;
 using System.Linq;
+using WoaW.Patterns.Specification;
 
 namespace WoaW.DesignPatterns.UnitTests
 {
